@@ -1,8 +1,10 @@
 <!-- HERO / HEADER SECTION -->
-<div align="center">
+<div align="right">
+  <img src="./assets/mario-jump.gif" width="200" alt="Cute Mario Jump" />
+</div>
+<img src="./assets/mario-banner.gif" width="100%" alt="Mario Banner" />
 
-  <!-- MARIO BANNER DIVIDER -->
-  <img src="./assets/mario-banner.gif" width="100%" alt="Mario Banner" />
+<div align="center">
 
   <br/>
 
