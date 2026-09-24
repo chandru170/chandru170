@@ -1,9 +1,6 @@
-<!-- HERO / HEADER SECTION -->
 
-
-  <!-- TOP RIGHT MARIO GIF -->
   <div align="right">
-    <img src="./assets/mario-jump.gif" width="100" height="100" alt="Cute Mario Jump" />
+    <img src="./assets/mario-jump.gif" width="200"  alt="Cute Mario Jump" />
   </div>
 
   <h1>Hi 👋, I'm Balachandru K</h1>
