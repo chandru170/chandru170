@@ -4,20 +4,14 @@
   <!-- MARIO BANNER DIVIDER -->
   <img src="./assets/mario-banner.gif" width="100%" alt="Mario Banner" />
 
-  <br/><br/>
+  <br/>
 
-  <!-- HEADER TABLE PLACING MARIO EXACTLY BESIDE NAME ABOVE SUBTITLE -->
-  <table width="100%" border="0">
-    <tr>
-      <td width="85%" align="center">
-        <h1>Hi 👋, I'm Balachandru K</h1>
-      </td>
-      <td width="15%" align="right" valign="middle">
-        <img src="./assets/mario-jump.gif" width="70" alt="Cute Mario Jump" />
-      </td>
-    </tr>
-  </table>
+  <!-- TOP RIGHT MARIO GIF -->
+  <div align="right">
+    <img src="./assets/mario-jump.gif" width="70" alt="Cute Mario Jump" />
+  </div>
 
+  <h1>Hi 👋, I'm Balachandru K</h1>
   <h3>AI & Data Science Undergraduate | Python Developer | Aspiring Data & Software Professional</h3>
 
   <br/>
@@ -153,18 +147,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=chandru170&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandru170&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandru170&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandru170&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 
-  <br/>
+  <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandru170&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 
