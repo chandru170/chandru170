@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- TOP RIGHT CUTE MARIO JUMP ANIMATION (Local Asset) -->
-  <img align="right" src="./assets/mario-jump.gif" width="65" alt="Cute Mario Jump" />
+  <img align="right" src="./assets/mario-jump.gif" width="105" alt="Cute Mario Jump" />
 
   <!-- MARIO BANNER DIVIDER (Local Asset) -->
   <img src="./assets/mario-banner.gif" width="100%" alt="Mario Banner" />
@@ -53,7 +53,7 @@
 ---
 
 <!-- 3. TECH STACK SECTION -->
-## 🛠️ Tech Stack <img align="right" src="./assets/mario-jump.gif" width="45" alt="Mario Jump" />
+## 🛠️ Tech Stack <img align="right" src="./assets/mario-jump.gif" width="85" alt="Mario Jump" />
 
 ### 💻 Programming & Web Frameworks
 <p>
@@ -87,7 +87,7 @@
 ---
 
 <!-- 4. FEATURED PROJECTS SECTION -->
-## 🚀 Featured Projects <img align="right" src="./assets/mario-jump.gif" width="45" alt="Mario Jump" />
+## 🚀 Featured Projects <img align="right" src="./assets/mario-jump.gif" width="85" alt="Mario Jump" />
 
 ### 📱 [Student Management System](https://github.com/chandru170/student-management-system)
 > **Tech Stack:** `Python` | `Django` | `HTML` | `CSS`  
@@ -108,7 +108,7 @@
 ---
 
 <!-- 5. EXPERIENCE SECTION -->
-## 💼 Internship Experience <img align="right" src="./assets/mario-jump.gif" width="45" alt="Mario Jump" />
+## 💼 Internship Experience <img align="right" src="./assets/mario-jump.gif" width="85" alt="Mario Jump" />
 
 ### **Full-Stack Development Intern** | Accent Techno
 *May 2025 – June 2025*
