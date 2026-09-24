@@ -4,13 +4,20 @@
   <!-- MARIO BANNER DIVIDER -->
   <img src="./assets/mario-banner.gif" width="100%" alt="Mario Banner" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- NAME WITH MARIO GIF ON THE RIGHT SIDE -->
-  <h1>
-    Hi 👋, I'm Balachandru K
-    <img align="right" src="./assets/mario-jump.gif" width="200" alt="Cute Mario Jump" />
-  </h1>
+  <!-- HEADER TABLE PLACING MARIO EXACTLY BESIDE NAME ABOVE SUBTITLE -->
+  <table width="100%" border="0">
+    <tr>
+      <td width="85%" align="center">
+        <h1>Hi 👋, I'm Balachandru K</h1>
+      </td>
+      <td width="15%" align="right" valign="middle">
+        <img src="./assets/mario-jump.gif" width="70" alt="Cute Mario Jump" />
+      </td>
+    </tr>
+  </table>
+
   <h3>AI & Data Science Undergraduate | Python Developer | Aspiring Data & Software Professional</h3>
 
   <br/>
