@@ -1,9 +1,7 @@
 
 
-  <h1>Hi 👋, I'm Balachandru K 
-  <div align="right">
-    <img src="./assets/mario-jump.gif" width="200"  alt="Cute Mario Jump" />
-  </div></h1>
+  <h1>Hi 👋, I'm Balachandru K </h1>
+ 
   <h3>AI & Data Science Undergraduate | Python Developer | Aspiring Data & Software Professional</h3>
 
   <br/>
