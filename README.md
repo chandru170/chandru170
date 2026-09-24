@@ -1,14 +1,16 @@
 <!-- HERO / HEADER SECTION -->
-<div align="right">
-  <img src="./assets/mario-jump.gif" width="200" alt="Cute Mario Jump" />
-</div>
-<img src="./assets/mario-banner.gif" width="100%" alt="Mario Banner" />
-
 <div align="center">
+
+  <!-- MARIO BANNER DIVIDER -->
+  <img src="./assets/mario-banner.gif" width="100%" alt="Mario Banner" />
 
   <br/>
 
-  <h1>Hi 👋, I'm Balachandru K</h1>
+  <!-- NAME WITH MARIO GIF ON THE RIGHT SIDE -->
+  <h1>
+    Hi 👋, I'm Balachandru K
+    <img align="right" src="./assets/mario-jump.gif" width="200" alt="Cute Mario Jump" />
+  </h1>
   <h3>AI & Data Science Undergraduate | Python Developer | Aspiring Data & Software Professional</h3>
 
   <br/>
