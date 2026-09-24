@@ -1,13 +1,10 @@
 <!-- HERO / HEADER SECTION -->
 <div align="center">
 
-  <!-- TOP RIGHT CUTE MARIO JUMP ANIMATION (Local Asset) -->
-  <img align="right" src="./assets/mario-jump.gif" width="200" alt="Cute Mario Jump" />
-
-  <!-- MARIO BANNER DIVIDER (Local Asset) -->
+  <!-- MARIO BANNER DIVIDER -->
   <img src="./assets/mario-banner.gif" width="100%" alt="Mario Banner" />
 
-  <br/><br/>
+  <br/>
 
   <h1>Hi 👋, I'm Balachandru K</h1>
   <h3>AI & Data Science Undergraduate | Python Developer | Aspiring Data & Software Professional</h3>
@@ -42,7 +39,7 @@
 ---
 
 <!-- 2. ABOUT ME SECTION -->
-## 👨‍💻 About Me
+## 👨‍💻 About Me <img align="right" src="./assets/mario-jump.gif" height="40" alt="Mario Jump" />
 
 - 🎓 **Education:** Pursuing **B.Tech in Artificial Intelligence and Data Science** (Major: Data Science) at **Adithya Institute of Technology**, Coimbatore, Tamil Nadu (*Expected Graduation: September 2027*).
 - 💼 **Experience:** Hands-on **Full-Stack Development Internship** experience at **Accent Techno** (May 2025 – June 2025).
@@ -53,7 +50,7 @@
 ---
 
 <!-- 3. TECH STACK SECTION -->
-## 🛠️ Tech Stack <img align="right" src="./assets/mario-jump.gif" width="200" alt="Mario Jump" />
+## 🛠️ Tech Stack <img align="right" src="./assets/mario-jump.gif" height="40" alt="Mario Jump" />
 
 ### 💻 Programming & Web Frameworks
 <p>
@@ -87,7 +84,7 @@
 ---
 
 <!-- 4. FEATURED PROJECTS SECTION -->
-## 🚀 Featured Projects <img align="right" src="./assets/mario-jump.gif" width="200" alt="Mario Jump" />
+## 🚀 Featured Projects <img align="right" src="./assets/mario-jump.gif" height="40" alt="Mario Jump" />
 
 ### 📱 [Student Management System](https://github.com/chandru170/student-management-system)
 > **Tech Stack:** `Python` | `Django` | `HTML` | `CSS`  
@@ -108,7 +105,7 @@
 ---
 
 <!-- 5. EXPERIENCE SECTION -->
-## 💼 Internship Experience <img align="right" src="./assets/mario-jump.gif" width="200" alt="Mario Jump" />
+## 💼 Internship Experience <img align="right" src="./assets/mario-jump.gif" height="40" alt="Mario Jump" />
 
 ### **Full-Stack Development Intern** | Accent Techno
 *May 2025 – June 2025*
